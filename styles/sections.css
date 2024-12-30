@@ -5,6 +5,8 @@ section header {
 
   a {
     justify-self: end;
+    align-items: center;
+    gap: 8px;
     
     span {
       background-image: url(../assets/icons/ArrowRight.svg);
